@@ -10,9 +10,9 @@ So after multiple dissapointments I dicided to model the part and print it becau
 In this repo you can find the stl file of the clip.
 
 Below some pictures of the panel and the borken part:
-- ![The Washi panel](images/IMG_20191207_113510.jpg.jpg) The Washi panel
+- ![The Washi panel](images/IMG_20191207_113510.jpg) The Washi panel
 - ![The Washi panel](images/IMG_20191207_113419.jpg) The clip (broken)
 - ![The insert for the clip](images/IMG_20191207_113505.jpg) The insert for the clip
-- ![The back attachment](images/IMG_20191205_215042.jpg.jpg) The back attachment
+- ![The back attachment](images/IMG_20191205_215042.jpg) The back attachment
 
 Hope this works for you.
